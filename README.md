@@ -2,7 +2,7 @@
 
 ## SVG
 
-![SVG Version](./elmoin-logo.svg?raw=true)
+![SVG Version](https://cdn.rawgit.com/sectore/elmoin-logo-media/master/elmoin-logo.svg)
 
 
 ## PNG (high resolution 300dpi)
