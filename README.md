@@ -2,7 +2,7 @@
 
 ## SVG
 
-![SVG Version](./elmoin-logo.svg)
+![SVG Version](./elmoin-logo.svg?raw=true)
 
 
 ## PNG (high resolution 300dpi)
